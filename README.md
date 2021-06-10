@@ -2,7 +2,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=devincd&show_icons=true" />
 </a>
 <a href="https://devincd.xyz/about">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devincd&hide=html,ruby" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devincd&hide=html,ruby,php" />
 </a>
 
 <!--
